@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+!subject_colors.pdf
